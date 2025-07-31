@@ -1,1 +1,3 @@
 Hello World! I was created to be deleted.
+
+This file serves as a ghost to show that I was created using the file_creation.sh script. However, I was actually deleted by the file_cleanup.sh script that was ran by the cron automation.
